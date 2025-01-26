@@ -79,5 +79,3 @@ Allows real-time interaction through hand gestures
 * More advanced annotation tools
 * Cross-platform compatibility
 
-## License
-MIT License
