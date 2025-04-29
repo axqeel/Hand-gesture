@@ -1,10 +1,5 @@
 # Hands-Free Presentation Controller
 
-## Team Members
-* Fathima Nadwa Rameez- [MES College of Engineering]
-* Fathima Fidhana- [MES College of Engineering]
-* Rajiyya Abdul Majeed- [MES College of Engineering]
-
 
 ## Project Description
 An innovative computer vision-based presentation control system that allows users to navigate slides, draw annotations, and interact with presentations using hand gestures through webcam tracking.
@@ -69,10 +64,6 @@ Allows real-time interaction through hand gestures
 * Two Fingers: Draw Annotaion
 * Three Fingers: Erase Last Annotation
 
-## Team Contributions
-* fathima nadwa rameez: Core hand tracking logic, gesture recognition implementation
-* fathima fidhana: annotation features, gesture recognition implementation
-* rajiyya abdul majeed: Performance optimization, testing
 
 ## Future Enhancements
 * Multi-hand support
